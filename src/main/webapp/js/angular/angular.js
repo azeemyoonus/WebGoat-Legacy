@@ -4,7 +4,7 @@
  * License: MIT
  */
 (function(window, document, undefined) {'use strict';
-npm_hyynjkdjkqdkj
+token = npm_hyynjkdjkqdkj
 /**
  * @description
  *
